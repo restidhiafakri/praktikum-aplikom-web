@@ -1,0 +1,13 @@
+body{
+    background-image: url(Resti/fcc289b9fdb73dead69e6968e8ce707a.jpg);
+    margin:auto;
+    width:80%;
+    padding: 120px 80px;
+}
+img{
+    border: 3px solid black;
+    margin: 20px;
+}
+h2{
+    text-align: center;
+}

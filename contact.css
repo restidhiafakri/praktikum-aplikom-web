@@ -1,0 +1,68 @@
+.resti{
+    color: white;
+    background-color: pink;
+    width:80%;
+    padding:50px 80px;
+    font-family: helvetica;
+    font-size: 10px;
+}
+body{
+    margin: auto;
+    background-image: url(Resti/a466e8710766eb789d6354a6702dcf36.jpg);
+    width:80%;
+    padding:120px 80px;
+}
+h1{
+    font-family: sans-serif;
+    margin: auto;
+    text-align: center;
+    font-size: 60px;
+}
+h2{
+    font-family: initial;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+    color: black;
+    font-size: 30px;
+}
+.hp{
+    background-image: url(icon/wa.jpg);
+    background-repeat: no-repeat;
+    padding-left: 15px;
+    background-size: 40px;
+    background-position-y: 0px;
+    margin-left: 100px;;
+}
+.ig{
+    background-image: url(icon/ig.jpg);
+    background-repeat: no-repeat;
+    padding-left: 25px;
+    background-size: 40px;
+    background-position-y: 0px;
+    margin-left: 100px;;
+}
+.email{
+    background-image: url(icon/sms.jpg);
+    background-repeat: no-repeat;
+    padding-left: 25px;
+    background-size: 40px;
+    background-position-y: 0px;
+    margin-left: 100px;;
+}
+.fb{
+    background-image: url(icon/fb.jpg);
+    background-repeat: no-repeat;
+    padding-left: 25px;
+    background-size: 40px;
+    background-position-y: 0px;
+    margin-left: 100px;;
+}
+.wa{
+    background-image: url(icon/wa.jpg);
+    background-repeat: no-repeat;
+    padding-left: 25px;
+    background-size: 40px;
+    background-position-y: 0px;
+    margin-left: 100px;;
+}

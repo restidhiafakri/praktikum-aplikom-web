@@ -1,0 +1,69 @@
+.navbar{
+    width : 100%;
+    background-color: lightslategrey;
+    padding: 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+span{   
+    font-size: 30px;
+}
+li{
+    font-size: 20px;
+}
+body{
+    margin: 0;
+    background-repeat: repeat;
+    background-size: cover;
+    background-image: url(bakglond/Flügel\ Desktop-Hintergründe\ -\ Weltdertechnologie\ -\ Technologieführer\,\ Einblicke\,\ Bewertungen\ und\ alle\ wichtigen\ und\ neuesten\ Nachrichten\ aus\ der\ Welt\ der\ Technologie_.jpg);
+}
+.nav-body{
+    width : 80%;
+    margin : auto;
+}
+.nav-body ul {
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+.nav-body li {
+    display: inline;
+    padding: 5px;
+}   
+div{
+    padding: ;
+}
+h1{
+    font-family: sans-serif;
+    margin: auto;
+    text-align: center;
+    font-size: 60px;
+}
+h2{
+    font-family: initial;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+    color: black;
+    font-size: 30px;
+}
+h3{
+    font-family: initial;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+    color: black;
+    background: rgb(130, 196, 240);
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    padding-top: 10px;
+    margin: auto;
+    margin-top: 10px;
+}
+h3:hover{
+    background: turquoise;
+}
